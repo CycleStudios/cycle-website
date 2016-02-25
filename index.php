@@ -30,7 +30,8 @@ include ("_include/header.php");
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-12">
-				<h1><strong>We're currently seeker longer contracts and are happy to be a part of your current team.</strong></h1
+				<h1><strong>We're currently seeker longer contracts and are happy to be a part of your current team.</strong></h1>
+				<h2><a href="mailto:hello@cyclestudios.co">hello@cyclestudios.co</a></h2>
 			</div>
 		</div>
 	</div>
