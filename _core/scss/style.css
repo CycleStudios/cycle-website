@@ -2612,9 +2612,11 @@ footer {
   top: 200px;
   position: absolute;
   background-image: url(../imgs/desk.png);
-  background-size: cover; }
+  background-size: cover;
+  cursor: progress; }
 
 .square2 {
+  cursor: wait;
   width: 240px;
   height: 240px;
   left: -10px;

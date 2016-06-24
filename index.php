@@ -17,11 +17,11 @@ include ("_include/header.php");
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-12">
-				<p>We're a no bullshit, straight talking, hard working studio that helps startups and established companies design & prototype their next 'thing'.<br><br>
+				<p>Hey! We're Cycle. A straight talking, hard working, small studio that helps startups and established companies design & prototype their next product.<br><br>
 
-				We've helped Dropbox, Facebook, Mailbox, John Deer, Switch, SeatGeek, EUFA, C4DI and many more.<br><br>
+				We've had the pleasure of helping Dropbox, Facebook, Mailbox, John Deer, Switch, SeatGeek, EUFA and many more.<br><br>
 
-				We're available for new work -<br><a href="mailto:hello@cyclestudios.co">hello@cyclestudios.co</a></p>
+			    <a href="mailto:hello@cyclestudios.co">hello@cyclestudios.co</a></p>
 			</div>
 		</div>
 	</div>

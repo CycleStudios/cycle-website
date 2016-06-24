@@ -11,7 +11,6 @@
     <script src="https://use.typekit.net/vve7mtx.js"></script>
 	<script>try{Typekit.load({ async: true });}catch(e){}</script>
 
-    </script>
 
 </head>
 
