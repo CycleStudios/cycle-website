@@ -1,61 +1,85 @@
+.branding {
+	font-family: $sans2;
+	color: #141823;
+
+		h1 {
+			font-size: 100px;
+			margin-bottom: -40px;
+			margin-top: -42px;
+			margin-left: 40px;
+			line-height: 1.4;
+
+		}
+		h2 { 
+			font-size: 40px;
+			margin-left: 44px;
+		}
+		@media (max-width: 700px) {
+		  h1 {
+		    font-size: 50px !important;
+		    margin-top: -26px;
+		    margin-bottom: 4px;
+		    margin-left: 20px;
+		  }
+
+		  h2 {
+		  	font-size: 20px;
+		  	margin-left: 22px;
+		  }
+		}
+
+
+}
+
+
 .introduction {
-	background: transparent;
-	height: 1000px;
-	width: 100%;
-	font-family: $sans;
+	font-family: $sans;	
 
-		h1 {
-			padding-top: 35%;
-			color: #886F35;
+		p {
+			padding-left: 20px;
+			padding-right: 20px;
+			margin-top: 100px;
+			font-weight: 400;
+			font-size: 30px;
+			color: #141823;
+			line-height: 1.4;
+			margin-bottom: 140px;
 		}
+		@media (max-width: 700px) {
+		  p {
+		  	margin-top: 50px;
+		  	margin-bottom: 60px;
+		    font-size: 22px;
+		  }
+		}	
 }
 
 
-.work {
-	background: transparent;
-	height: 1000px;
-	width: 100%;
-	font-family: $sans;
-
-		h1 {
-			color: #ABAFBA;
-		}
-		strong {
-			color: #38497B !important;
-		}
+.square1 {
+	width: 180px;
+	height: 180px;
+	right: 60px;
+	top: 200px;
+	position: absolute;
+	background-image: url(../imgs/desk.png);
+	background-size: cover;
 }
 
-.contact {
-	background: transparent;
-	height: 740px;
-	width: 100%;
-	font-family: $sans;
-
-		h1, h2 {
-			color: #3A205E;
-		}
-		h2 {
-			margin-top: 40px;
-		}
-
+.square2 {
+	width: 240px;
+	height: 240px;
+	left: -10px;
+	bottom: 0px;
+	position: absolute;
+	background-image: url(../imgs/road.png);
+	background-size: cover;
 }
 
 
+@media (max-width: 700px) {
+		  .square1, .square2 {
+		    display: none;
+		  }
 
-h1 {
-	padding-top: 40%;
-	font-size: 40px;
-	line-height: 1.3;
 }
-h2 {
-	font-weight: 700;
-	font-size: 26px;
-	line-height: 1.3;
-}
-a {
-	color: inherit;
-	text-decoration: none;
-}
-strong {
-	font-weight: 700 !important;
-}
+

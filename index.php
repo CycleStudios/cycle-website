@@ -4,38 +4,29 @@ include ("_include/header.php");
 ?>
 
 
+<section class="branding">
+	<h1>CYCLE STUDIOS<h1>
+	<h2>002</h2>
+</section>
+
+<div class="square1"></div>
+
+<div class="square2"></div>
+
 <section class="introduction">
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-12">
-				<h1><strong>Cycle Studios</strong> is a small, established team helping people invent, build, and launch their next product or venture throught beautiful design and proccess.</h1>
+				<p>We're a no bullshit, straight talking, hard working studio that helps startups and established companies design & prototype their next 'thing'.<br><br>
+
+				We've helped Dropbox, Facebook, Mailbox, John Deer, Switch, SeatGeek, EUFA, C4DI and many more.<br><br>
+
+				We're available for new work -<br><a href="mailto:hello@cyclestudios.co">hello@cyclestudios.co</a></p>
 			</div>
 		</div>
 	</div>
 </section>
 
-
-<section class="work">
-	<div class="span">
-		<div class="loop-12">
-			<div class="loop-12">
-				<h1>We've worked with...<br><strong>Dropbox, Facebook, Mailbox, John Deer, Switch, EUFA, SeatGeek, C4Di</strong> and more.</h1>
-			</div>
-		</div>
-	</div>
-</section>
-
-
-<section class="contact">
-	<div class="span">
-		<div class="loop-12">
-			<div class="loop-12">
-				<h1><strong>We're currently seeker longer contracts and are happy to be a part of your current team.</strong></h1>
-				<h2><a href="mailto:hello@cyclestudios.co">hello@cyclestudios.co</a></h2>
-			</div>
-		</div>
-	</div>
-</section>
 
 
 
