@@ -2623,7 +2623,7 @@ footer {
   background-image: url(../imgs/road.png);
   background-size: cover; }
 
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   .square1, .square2 {
     display: none; } }
 
